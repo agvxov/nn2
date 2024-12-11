@@ -1,5 +1,5 @@
 clean:
-	-rm -r logs/PPO_*
+	-rm -r logs/PPO_* logs/A2C_*
 	-rm frame_*.png
 
 gif:
